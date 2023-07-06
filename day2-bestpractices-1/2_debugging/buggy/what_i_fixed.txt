@@ -1,0 +1,1 @@
+In the script runner.py I fixed line 18 (total += die.value #fix no 1: increment total by the value of each die)
